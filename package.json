@@ -1,0 +1,17 @@
+{
+    "name": "serverless-movie-rating",
+    "version": "1.0.0",
+    "description": "Serverless application for movie rating using Azure Functions and Azure SQL Database.",
+    "main": "index.js",
+    "scripts": {
+      "start": "func start",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "mssql": "^7.2.1",
+      "azure-functions-core-tools": "^3.0.3904"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
